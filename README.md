@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andymorse
+- 👀 I’m interested in all things tech. I specialize in IT, networking and cyber security. 
+- 🌱 I’m currently learning python and iOS developement
+- 📫 How to reach me via email at andy@andymorse.com
